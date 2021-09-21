@@ -1,5 +1,7 @@
 # Hello! I'm @jtsiddons
 
+I am postdoctoral researcher in Mathematics and Statistics at Dalhousie University in Halifax, NS. I'm primarily based in the Oceanography department as part of [mmab](https://mmab.ca/).
+
 ## Interests
 
 - I am interested in analysing plankton data using Julia.
