@@ -1,4 +1,4 @@
-# Hello! I'm @jtsiddons :ocean:
+# Hello! I'm @jtsiddons :fish:
 
 I am postdoctoral researcher in Mathematics and Statistics at Dalhousie University in Halifax, Nova Scotia. I'm primarily based in the Oceanography department as part of [MMAB](https://mmab.ca/).
 
