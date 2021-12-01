@@ -19,6 +19,3 @@ I am postdoctoral researcher in Mathematics and Statistics at Dalhousie Universi
 - Python
 - sh
 
----
-
-I use arch btw :laughing:
