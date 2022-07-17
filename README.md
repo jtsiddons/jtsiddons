@@ -1,7 +1,5 @@
 # Hello! I'm [@jtsiddons](https://www.github.com/jtsiddons) :fish:
 
-I am postdoctoral researcher in Mathematics and Statistics at Dalhousie University in Halifax, Nova Scotia. I'm primarily based in the Oceanography department as part of [MMAB](https://mmab.ca/).
-
 ---
 
 ## Interests
@@ -17,5 +15,5 @@ I am postdoctoral researcher in Mathematics and Statistics at Dalhousie Universi
 - Julia
 - R
 - Python
-- sh
+- shell scripting
 
