@@ -1,6 +1,6 @@
 # Hello! I'm [@jtsiddons](https://www.github.com/jtsiddons) :fish:
 
-I am a research data scientist. 
+I am a research data scientist. I work primarily in the field of graphical data science, working on the inference of relationships between elements within the data.
 
 ---
 
