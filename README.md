@@ -1,5 +1,7 @@
 # Hello! I'm [@jtsiddons](https://www.github.com/jtsiddons) :fish:
 
+I am a research data scientist. 
+
 ---
 
 ## Interests
