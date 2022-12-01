@@ -24,6 +24,8 @@ I am a research data scientist. I work primarily in the field of graphical data 
 
 ![Number of times the winner of each season of the Great British Bake-Off won Star Baker during their run for seasons 1 - 10. A part of TidyTuesday.](https://github.com/jtsiddons/TidyTuesday/blob/main/2022-10-27_BakeOff/figs/baker_star_baker.png)
 
+![World cup hosts and winners between 1930 and 2018. Brazil has won more world cups than any other team, winning five times. A part of TidyTuesday.](https://github.com/jtsiddons/TidyTuesday/raw/main/2022-11-29_FIFAWorldCup/figs/world_cup_hosts_and_winners.png)
+
 ![Solar system generated using CairoMakie.jl according to the Gruvbox colour-scheme.](https://github.com/jtsiddons/GruvboxBackgrounds/raw/main/figs/SolarSystemSimple.png)
 
 ## Articles
