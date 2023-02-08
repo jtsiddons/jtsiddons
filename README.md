@@ -28,6 +28,8 @@ I am a research data scientist. I work primarily in the field of graphical data 
 
 ![Solar system generated using CairoMakie.jl according to the Gruvbox colour-scheme.](https://github.com/jtsiddons/GruvboxBackgrounds/raw/main/figs/SolarSystemSimple.png)
 
+![Change in SST along Broeker's Ocean Conveyor from 1982 to 2021](https://github.com/jtsiddons/conveyor_sst/blob/main/figs/conveyor_sst.gif?raw=true)
+
 ## Articles
 
 * Graphical Analysis of A Marine Plankton Community Reveals Spatial, Temporal, and Niche Structure of Sub-Communities (2022, with Irwin, A. and Finkel, Z.) [https://doi.org/10.3389/fmars.2022.943540](https://doi.org/10.3389/fmars.2022.943540)
